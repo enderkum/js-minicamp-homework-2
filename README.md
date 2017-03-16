@@ -8,7 +8,7 @@
 	* && || !  : They are logical operators, '&&' stands for 'and', '||' stands for 'or'.
 	* Array    : Collection of items in a group with indices. We can find any item through its indice.
 	* git      : A software allows multiple people to work on same files by coping the master copy and merging their own work to it.
-	* GitHub   : A software allows multiple people to work on same files by coping the master copy and merging their own work to it.
+	* GitHub   : A web-based Git, where we can share our files, contribute other projects.
 
 
 2. Install git.  https://git-scm.com/downloads
