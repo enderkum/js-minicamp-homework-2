@@ -4,11 +4,11 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* for loop
-	* && || !
-	* Array
-	* git
-	* GitHub
+	* for loop : In computer science for loop is used for repeating the code repeatedly. We can control the number of repetition in a for loop.
+	* && || !  : They are logical operators, '&&' stands for 'and', '||' stands for 'or'.
+	* Array    : Collection of items in a group with indices. We can find any item through its indice.
+	* git      : A software allows multiple people to work on same files by coping the master copy and merging their own work to it.
+	* GitHub   : A software allows multiple people to work on same files by coping the master copy and merging their own work to it.
 
 
 2. Install git.  https://git-scm.com/downloads
